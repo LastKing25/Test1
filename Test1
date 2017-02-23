@@ -1,7 +1,13 @@
 <html>
 <head>
- <title> Test1 </title>
- <body> I hope i get a good grade in this test
-<img src="Test1pic.jpg"></body>
+  <link rel="stylesheet"
+  type="text/css"
+  heref="style.css">
+<title> Test1 </title>
+</head>
+<body> I whant to pass this test to pass this class
+ <img src="Test1pic.jpg">
+ <h1> I will try my hardest to remember how to creat a website.</h1>
 <p> I hope i get and A in this test <p>
-<h1> I will try my hardest to remember how to creat a website.</h1>
+<body/>
+</html>
