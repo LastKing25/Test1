@@ -1,8 +1,8 @@
 h1{
   color: red;
-  font-size: 48px;
+  font-size:50px;
 }
-p{
-  color: grey;
-  font-size: 48px;
+#firstsentence{
+  color:blue;
+  font-size:50px;
 }
